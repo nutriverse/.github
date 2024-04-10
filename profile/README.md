@@ -2,7 +2,7 @@ Our mission is to foster a community of nutrition data analysts who use R langua
 
 To learn more:
 
-:globe_with_meridians: Visit our :globe_with_meridians: [website](https://katilingban.io)
+:globe_with_meridians: Visit our [website](https://katilingban.io)
 
 :link: Visit us on  [LinkedIn](https://www.linkedin.com/company/katilingban/)
 
