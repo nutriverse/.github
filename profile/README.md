@@ -6,6 +6,6 @@ To learn more:
 
 :link: Visit us on  [LinkedIn](https://www.linkedin.com/company/katilingban/)
 
-:elephant: Follow us on  <a rel="me" rel="nofollow" href="https://fosstodon.org/@katilingban">Mastodon</a>
+:elephant: Follow us on  <a rel="me" rel="nofollow" href="https://mastodon.social/@nutriverse">Mastodon</a>
 
 :octocat: See our code on [GitHub](https://github.com/katilingban)
