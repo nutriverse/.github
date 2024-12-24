@@ -4,4 +4,5 @@ To learn more:
 - :globe_with_meridians: Visit our [website](https://nutriverse.io)    
 - :elephant: Follow us on  <a rel="me" rel="nofollow" href="https://mastodon.social/@nutriverse">Mastodon</a>
 - :butterfly: Follow us on [Bluesky](https://bsky.app/profile/nutriverse.io)
-- :octocat: See our code on [GitHub](https://github.com/nutriverse)    
+- :octocat: See our code on [GitHub](https://github.com/nutriverse)
+- :milky_way: Visit our [R Universe](https://nutriverse.r-universe.dev)
