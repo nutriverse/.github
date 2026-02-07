@@ -3,7 +3,7 @@ Our mission is to foster a community of nutrition data analysts who use R langua
 [![website](https://img.shields.io/badge/Visit_our_website-https://nutriverse.io-darkgreen)](https://nutriverse.io)
 <a rel="me" rel="nofollow" href="https://mastodon.social/@nutriverse">![mastodon](https://img.shields.io/badge/Follow_us_on-Mastodon-purple?logo=mastodon&logoColor=%23FFFFFF)</a>
 [![bluesky](https://img.shields.io/badge/Follow_us_on-Bluesky-blue?logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/nutriverse.io)
-[![linkedin](https://img.shields.io/badge/Follow_us_on-LinkedIn-blue)](https://linkedin.com/company/nutriverse-community)
+[![linkedin](https://img.shields.io/badge/Follow_us_on-LinkedIn-blue?logo=linkedin)](https://linkedin.com/company/nutriverse-community)
 [![zulip](https://img.shields.io/badge/Join_the_discussion_on-Zulip-blue?logo=zulip&logoColor=%23FFFFFF)](https://nutriverse.zulipchat.com)
 [![github](https://img.shields.io/badge/See_our_code_on-GitHub-orange?logo=github)](https://github.com/nutriverse)
 [![r-universe](https://img.shields.io/badge/Visit_our-R_Universe-blue?logo=r)](https://nutiverse.r-universe.dev)
