@@ -8,7 +8,7 @@ Our mission is to foster a community of nutrition data analysts who use R langua
 [![r-universe](https://img.shields.io/badge/Visit_our-R_Universe-blue?logo=r)](https://nutiverse.r-universe.dev)
 
 
-**nutriverse** is a project under the [Oxford iHealth](https://oxford-ihtm.io) initiative of the[ MSc in International Health and Tropical Medicine](https://www.tropicalmedicine.ox.ac.uk/study-with-us/msc-ihtm), [University of Oxford](https://www.ox.ac.uk). <img src="https://podcasts.ox.ac.uk/sites/default/files/image-mirror/unpacking-fundamentals-global-health-towards-new-generation-leadership.png" width="150px" align="right" ><img src="https://github.com/OxfordIHTM/OxfordIHTM.github.io/blob/main/images/ihealth_base_pos.png?raw=true" align="right" height="200px" />
+**nutriverse** is a project under the [Oxford iHealth](https://oxford-ihtm.io) initiative of the[ MSc in International Health and Tropical Medicine](https://www.tropicalmedicine.ox.ac.uk/study-with-us/msc-ihtm), [University of Oxford](https://www.ox.ac.uk). <img src="https://podcasts.ox.ac.uk/sites/default/files/image-mirror/unpacking-fundamentals-global-health-towards-new-generation-leadership.png" width="100px" align="right" ><img src="https://github.com/OxfordIHTM/OxfordIHTM.github.io/blob/main/images/ihealth_base_pos.png?raw=true" align="right" height="100px" />
 
 
 
