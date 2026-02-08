@@ -1,5 +1,5 @@
-Our mission is to foster a community of nutrition data analysts who use R language for statistical computing.  <img src="https://podcasts.ox.ac.uk/sites/default/files/image-mirror/unpacking-fundamentals-global-health-towards-new-generation-leadership.png" width="150px" align="right" ><img src="https://github.com/OxfordIHTM/OxfordIHTM.github.io/blob/main/images/ihealth_base_pos.png?raw=true" align="right" height="150px" />
-We aim to provide this community with support through the development of robust and performant R packages as tools for their analytical tasks, and learning through day-to-day technical guidance and impactful peer-to-peer learning.
+Our mission is to foster a community of nutrition data analysts who use R language for statistical computing.
+We aim to provide this community with support through the development of robust and performant R packages as tools for their analytical tasks, and learning through day-to-day technical guidance and impactful peer-to-peer learning. <img src="https://podcasts.ox.ac.uk/sites/default/files/image-mirror/unpacking-fundamentals-global-health-towards-new-generation-leadership.png" width="150px" align="right" ><img src="https://github.com/OxfordIHTM/OxfordIHTM.github.io/blob/main/images/ihealth_base_pos.png?raw=true" align="right" height="150px" />
 
 **nutriverse** is a project under the [Oxford iHealth](https://oxford-ihtm.io) initiative of the[ MSc in International Health and Tropical Medicine](https://www.tropicalmedicine.ox.ac.uk/study-with-us/msc-ihtm), [University of Oxford](https://www.ox.ac.uk).
 
